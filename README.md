@@ -158,3 +158,10 @@ if ($_GET['view'] == 'topInfo') {
         }
     }
 }
+ {
+        "filename": "python-3.10.0-rc.2-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/actions/python-versions/releases/download/3.10.0-rc.2-116172/python-3.10.0-rc.2-darwin-x64.tar.gz"
+      },
+
